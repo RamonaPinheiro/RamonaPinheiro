@@ -1,16 +1,12 @@
-### Hi there 👋
+#### Oi! Eu sou a Ramona 
 
-<!--
-**RamonaPinheiro/RamonaPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho com expedição
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas
+- 📧 Contate-me no email: ramona.p@aluno.ifsp.edu.br
+- Pronomes: ela/dela
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/RamonaPinheiro">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RamonaPinheiro&show_icons=true&theme=cobalt&include_all_commits=true&count_privare=true/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?usename=RamonaPinheiro&layout=compact&langs_count=16&theme=cobalt"/>
+</div>

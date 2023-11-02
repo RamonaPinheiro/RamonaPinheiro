@@ -7,6 +7,5 @@
 
 <div>
   <a href="https://github.com/RamonaPinheiro">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RamonaPinheiro&show_icons=true&theme=cobalt&include_all_commits=true&count_privare=true/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?usename=RamonaPinheiro&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RamonaPinheiro&show_icons=true&theme=cobalt/>
 </div>

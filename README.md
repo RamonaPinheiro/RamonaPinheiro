@@ -8,14 +8,15 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+<br>
 <div>
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/ramona-pinheiro-a647b8196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
+
+##
+
 <table>
-    <tr>
+  <tr>
       <td><img height="210" src=https://github-readme-stats.vercel.app/api?username=RamonaPinheiro&show_icons=true&theme=cobalt></td>
 </td>
     </tr>
